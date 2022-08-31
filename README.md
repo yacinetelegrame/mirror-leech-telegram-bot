@@ -2,7 +2,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Features:
 
-## By [anasty17](https://github.com/anasty17)
+## By [DJ-YACINE]
 In each single file there is a major change from base code, it's almost totaly different. Here some of features and fixes that I remember.
 ### qBittorrent
 - Qbittorrent support
